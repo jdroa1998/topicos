@@ -17,6 +17,7 @@ public class Topicos20 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Ehhhhh guajapen 1");
+        System.out.println("Ehhhhh guajapen 2");
     }
     
 }
